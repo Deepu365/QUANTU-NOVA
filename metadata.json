@@ -1,0 +1,6 @@
+{
+  "name": "QuantumFlow: QAOA Water Allocation Optimisation",
+  "description": "QAOA-based decision-support prototype for irrigation and water-resource allocation across Krishna-Godavari command areas (Qiskit Fall Fest 2026).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
